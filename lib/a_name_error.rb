@@ -1,4 +1,3 @@
 "hello world"
-do
-puts "hello_world"
-end
+
+"hello_world"
